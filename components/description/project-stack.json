@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_description_project_stacks",
+  "info": {
+    "name": "project_stack",
+    "icon": "asterisk"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
